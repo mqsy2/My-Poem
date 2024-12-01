@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn and the Pony
+The Rainbow and the Unicorn
 
 Purple
 Pink
@@ -7,6 +7,7 @@ Blue
 Green
 Indigo
 Recycle!
+Horn
 Unicorn
 Yellow
 Red
